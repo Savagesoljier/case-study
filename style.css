@@ -1,0 +1,103 @@
+body {
+    font-family: 'Special Elite', cursive;
+    background: linear-gradient(red, orange, yellow, green, blue, indigo, violet);
+    text-align: center;
+}
+
+#main_img {
+    margin-top: 25px;
+    width: 100px;
+    height: 100px;
+
+}
+
+.result {
+    padding: 10px;
+    margin-top: 15px;
+    box-shadow: 5px 5px 15px black;
+    width: 310px;
+}
+
+li {
+    margin-left: 50px;
+}
+
+h4 {
+    margin-left: 60px;
+}
+
+h5 {
+    margin-left: 60px;
+}
+
+img {
+    width: 300px;
+    height: 300px;
+}
+
+.headerDiv {
+    background-color: black;
+    color: tomato;
+}
+
+.headerDiv img {
+    width: 100px;
+    height: 100px;
+}
+
+.mainDiv {
+    background-color: black;
+    padding: 10px;
+    margin-top: 15px;
+    border: 3px dashed white;
+}
+
+.mainDiv label {
+    background-color: blue;
+    color: white;
+    width: 310px;
+    padding: 10px;
+    margin-bottom: 0px;
+    box-shadow: 5px 5px 18px red;
+}
+
+#camera,
+#result {
+    border: 3px dotted wheat;
+    width: 310px;
+    height: 300px;
+    box-shadow: 5px 5px 18px green;
+}
+
+.mainDiv button {
+    width: 310px;
+    font-size: 16px;
+    box-shadow: 5px 5px 18px yellow;
+    border: 3px dotted whitesmoke;
+}
+
+.footerDiv {
+    margin-bottom: 50px;
+}
+
+.footerDiv h4 {
+    background-color: darkblue;
+    border-radius: 10px;
+    padding: 5px;
+    box-shadow: 5px 5px 18px pink;
+}
+
+.footerDiv img {
+    width: 80px;
+    height: 80px;
+}
+
+.footer {
+    position: fixed;
+    background-color: white;
+    color: orchid;
+    bottom: 0;
+    width: 100%;
+    line-height: 3;
+    text-align: center;
+}
